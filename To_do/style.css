@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.toDo {
+    border: solid 2px purple;
+    border-radius: 5px;
+    padding: 25px 0 25px 25px;
+}
+
+.textToDo {
+    width: 50%;
+    margin-bottom: 20px;
+    height: 20px;
+    font-size: medium;
+}
+
+#buttonAdd {
+    width: 15%;
+    color: white;
+    background-color: rebeccapurple;
+    height: 25px;
+}
+
+.containerCheckbox {
+    font-weight: bold;
+    color: black;
+}
